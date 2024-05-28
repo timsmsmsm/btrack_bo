@@ -1,7 +1,7 @@
-# Automated Parameter Tuning for BTrack
+# Automated Parameter Tuning for btrack
 
 ## Description
-This project implements automated parameter tuning for BTrack cell tracking software using Optuna. Additionally, we have developed a tree visualization tool to visualize your ground truth and predicted lineage trees with your optimized parameters.
+This project implements automated parameter tuning for btrack cell tracking software using Optuna. Additionally, we have developed a tree visualization tool to visualize your ground truth and predicted lineage trees with your optimized parameters.
 
 ## Installation
 To install the necessary dependencies, run the following commands in your Python environment:
